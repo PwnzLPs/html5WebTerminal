@@ -1,3 +1,6 @@
+open source node.js irc client: https://github.com/naneau/node-irc-client
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/PwnzLPs/html5WebTerminal/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
